@@ -1,22 +1,16 @@
 dBug for CodeIgniter
 ========
 
-What is dBug?
+What does dBug do?
 ------
 
+Dumps/Displays the contents of a variable in a colored tabular format
+
+Based on the idea, javascript, and css code of Macromedia's ColdFusion cfdump tag
+
+A much better presentation of a variable's contents than PHP's `var_dump` and `print_r` functions
+
 Main page for the dBug library is here: http://dbug.ospinto.com/
-
-dBug is the PHP version of ColdFusion’s cfdump.
-
-Outputs colored and structured tabular variable information.
-
-Variable types supported are: Arrays, Classes/Objects, Database and XML Resources.
-
-Ability to force certain types of output. Example: You can force an object variable to be outputted as an array type variable.
-
-Stylesheet can be easily edited.
-
-Table cells can be expanded and collapsed.
 
 What is this?
 ------
